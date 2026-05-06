@@ -6,4 +6,4 @@ def calcular(lista):
 
 numeros = [10, 20, 30, 40, 50]
 resultado = calcular(numeros)
-print("El total es: " + str(resultado))
+print("Resultado final: " + str(resultado))
