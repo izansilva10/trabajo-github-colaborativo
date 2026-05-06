@@ -4,6 +4,6 @@ def calcular(lista):
         total = total + num
     return total
 
-numeros = [1, 2, 3, 4, 5]
+numeros = [10, 20, 30, 40, 50]
 resultado = calcular(numeros)
 print("Resultado: " + str(resultado))
