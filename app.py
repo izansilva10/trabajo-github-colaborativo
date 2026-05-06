@@ -6,4 +6,4 @@ def calcular(lista):
 
 numeros = [10, 20, 30, 40, 50]
 resultado = calcular(numeros)
-print("El promedio es: " + str(round(resultado / len(numeros), 2)))
+print("Resultado final: " + str(resultado))
